@@ -1,8 +1,8 @@
 ## This function caches the value of the inverse of an invertible matrix
 
 
-## This function creates a list that sets the value of the matrix, get the 
-## the value of the matrix, set the value of the inverse matrix, get the 
+## This function creates a list that sets the value of the matrix, gets the 
+## the value of the matrix, sets the value of the inverse matrix, gets the 
 ## value of the inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
